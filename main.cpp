@@ -1,11 +1,6 @@
 #include <vector>
 #include <algorithm>
 #include <iostream>
-#include <cstring>
-#include <time.h>
-#include <stdlib.h>
-#include <math.h>
-#include "field.h"
 #include "rectangle.h"
 using namespace std;
 
